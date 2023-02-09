@@ -1,4 +1,3 @@
 # Programming-in-Java---Project
 A Movie Recommendation System worked with Java
-ntroduction to Movie Recommendation System in Java
-This project is a movie recommendation system built using Java that utilizes machine learning algorithms to suggest movies to users based on their previous ratings. The system is designed to be user-friendly and provides a command line interface for interaction. The movie data used by the system is stored in a CSV file, and the system implements both user-based and item-based collaborative filtering algorithms to make recommendations. If you are interested in contributing to the project, feel free to contact me for files and guidelines.
+This code provides a basic implementation of a movie recommendation system that allows users to search for movies by genre or rating. The code uses Spring Boot for the web application and JUnit for unit testing. The application uses an in-memory repository for storing the movie data, but this could be replaced with a database if needed. If you are interested in contributing to the project, feel free to contact me for files and guidelines.
